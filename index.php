@@ -9,7 +9,7 @@ $.ajax({
     type: 'GET',
     headers: {
     	'apikey': 'anzhbnJvaXVz'
-    }
+    },
     dataType: 'json',
 
     success: function() { alert("Success"); },
